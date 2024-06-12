@@ -66,6 +66,33 @@ https://www.instagram.com/ishiid/
 | **Why**            | Existing market watch dashboards are difficult to use, and many people struggle with analytics tools. There is a lack of tools that make financial market analysis easy and enjoyable for people with diverse skill sets             |
 | **How**            | As experts in mathematics and statistics, we are developing a dashboard and analysis tool operable in natural language, making financial analysis enjoyable for people of all skill levels. The tool is designed for one-handed use on a smartphone and offers comprehensive analysis, including fundamental analysis, to provide a user-friendly and thorough analysis experience.
 
+(採用困難な問題を解決)
+
+我々がキアラで今回解決したい問題は、経営層の採用が非常に困難であることです。特にエグゼクティブレベルの人材のリプレースをラージランゲージモデルおよびチャットGPTで行うという野心的な試みです。
+
+(私がターゲットユーザー)
+この問題を抱えているのは私自身です。私はファウンダーとして、様々なポテンシャルを持つ候補者とのコラボレーションを通じて、リーダーシップを持ってオペレーションのマネージャーができる人材を探し続けています。しかし、世の中にはそのような人材が非常に少なく、多くのソロファウンダーがエグゼクティブレベルの採用に苦しんでいます。これに対するちゃんとしたソリューションは未だかつて存在していないのが現状です。
+
+(過去通訳をAIでリプレイス)
+今まで我々は、キアラが提供する「Translator」というオペレーターレベルのAIを販売し、世界500社のお客様に愛されてきました。そのうち、売上の半分は海外からのものであり、成功を収めてまいりました。昨年から始まったラージランゲージモデルやチャットGPTのブームにより、我々はそこにチャンスを見出し、思い切ってマネージャーやディレクター、CXOレベルの人材のリプレースに取り組むことにしました。
+
+(今回はCOOとCFOをリプレイス)
+COOの役割は相談のとおり、オペレーションをハンドリングし、リーダーシップを発揮することです。これが何パーセントラージランゲージモデルで代替できるかを探っています。CFOの役割は文字通りお金の管理です。これが何パーセントラージランゲージモデルで代替できるかということが、我々の計画の中心となっています。
+
+(なぜCOOのAI化が難しいのか)
+COOの役割がオートメーション化できないのは、人間の行動のデータ化や、人間のスキルと行動のモデリングができていないことが大きな問題です。つまり、タスクを行う人間の管理は属人化しやすく、特に我々の場合、全世界に広がるリモートチームを抱えているため、チャレンジングな場面が多いと言えます。
+
+(なぜCFOのAI化が難しいのか)
+CFOの業務がなぜオートメーション化しにくいかというと、各セールスやIT、お金の管理ツールが政治的な理由でバラバラになっているからです。例えば、セールスフォースは会計ソフトのIntuitやFreeと仲良くするかというと、実は一部競合しており、データの共有があまり積極的に行われていません。そこで、我々はあえてオープンソース戦略をとり、データを中間した上でラージランゲージモデルを組み立てようと考えています。
+
+(今後の展開)
+初期のお客様は、まさに我々のような数十人規模のスタートアップの社長だと思います。すでにプロトタイプで作ったCFO.aiは、数人の起業家仲間に非常に好評をいただいております。ただし、すべてがラージランゲージモデルの生のデータを使った同じユーザーインターフェースだと問題の解決にはなりません。そこで、データインテグレーションを行い、オペレーションのユーザーインターフェースと同じものを提供することで、各会社の業務を短期的には使用方法に合わせ、業務を1つ1つストリームライン化して自動化できると考えています。
+
+(モニター募集中)
+初期のモニターユーザーを探しています。
+興味がある方はhello@kiara.teamまで “Kiara AI モニター希望”というタイトルでメールくださいませ
+
+
 
 **やっていること**
 
