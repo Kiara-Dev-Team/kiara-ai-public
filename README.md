@@ -44,6 +44,17 @@ https://www.instagram.com/ishiid/
 | **Why**            | SMEs find it difficult to hire a CFO, and science-based startups often lack financial knowledge. The goal is to provide a user experience that enables solid financial planning                                      |
 | **How**            | Automating the skills of a CFO (money management, efficient reallocation, revenue, contract, and risk management, cost linking, organization of software, hardware, and personnel, maximizing equity) and offering it as a tool. This allows companies that cannot afford a CFO to still engage in financial planning |
 
+# COO AI
+
+| Element            | Details                                                                                                                                                                                                                         |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Who**            | Our team (Specification Dot AI Development Team)                                                                                                                                                                               |
+| **What**           | A tool to automate the tasks of a Chief Operating Officer (COO)                                                                                                                                                                |
+| **When**           | Currently ongoing                                                                                                                                                                                                              |
+| **Where**          | Provided to small and medium-sized enterprises (SMEs), teams working across different time zones, teams with language barriers, and projects involving cross-organizational collaboration                                      |
+| **Why**            | There is a lack of tools that flexibly manage sales, marketing, customer support, customer success, and sales activities for SMEs. Based on successful task management with GitHub, we aim to enhance operational efficiency  |
+| **How**            | In addition to GitHub-based task management, we leverage large language models (LLM) for situational awareness and prioritization. By issuing instructions in natural language and mimicking the management methods of renowned startups and mega-ventures, we are developing a tool for efficient business operations. This enables global teams to work efficiently and without misunderstandings.
+
 
 
 **やっていること**
