@@ -55,6 +55,16 @@ https://www.instagram.com/ishiid/
 | **Why**            | There is a lack of tools that flexibly manage sales, marketing, customer support, customer success, and sales activities for SMEs. Based on successful task management with GitHub, we aim to enhance operational efficiency  |
 | **How**            | In addition to GitHub-based task management, we leverage large language models (LLM) for situational awareness and prioritization. By issuing instructions in natural language and mimicking the management methods of renowned startups and mega-ventures, we are developing a tool for efficient business operations. This enables global teams to work efficiently and without misunderstandings.
 
+# Investor AI
+
+| Element            | Details                                                                                                                                                                                                                               |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Who**            | Our team (Investor AI Development Team)                                                                                                                                                                                              |
+| **What**           | Developing an analysis tool that studies stock, crypto, and FX markets, operable in natural language                                                                                                                                  |
+| **When**           | Currently ongoing                                                                                                                                                                                                                    |
+| **Where**          | For use by investors and in any context where financial market analysis is needed                                                                                                                                                     |
+| **Why**            | Existing market watch dashboards are difficult to use, and many people struggle with analytics tools. There is a lack of tools that make financial market analysis easy and enjoyable for people with diverse skill sets             |
+| **How**            | As experts in mathematics and statistics, we are developing a dashboard and analysis tool operable in natural language, making financial analysis enjoyable for people of all skill levels. The tool is designed for one-handed use on a smartphone and offers comprehensive analysis, including fundamental analysis, to provide a user-friendly and thorough analysis experience.
 
 
 **やっていること**
