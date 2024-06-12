@@ -7,6 +7,42 @@ We call it "Kiara LLM series"
 以下要項にてメンバーを募集します。よかったらInsta DMくださいませ！代表 石井大輔
 https://www.instagram.com/ishiid/
 
+# What We Are Doing
+
+| Element            | Details                                                                                                                                                                                                                      |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Who**            | Our team (Kiara AI Series Development Team)                                                                                                                                                                                  |
+| **What**           | Developing applications that utilize large language models (such as ChatGPT) to improve various business operations                                                                                                           |
+| **When**           | Currently ongoing                                                                                                                                                                                                            |
+| **Where**          | Developing and sharing information in an open-source environment                                                                                                                                                             |
+| **Why**            | As a fintech venture, we lack necessary tools; hence, we are commercializing these tools and providing them as part of the Kiara AI suite, managed under a single ID                                                         |
+| **How**            | Publishing data and applications as open-source, recruiting collaborators and team members for marketing, sales operations, and engineering. Using various Google services (Gmail, Google Calendar, Google Maps, YouTube, Google Sheets, Google Docs, Google Slides, Google Keep, Android phones) as benchmarks, we commercialize and provide the necessary components |
+
+# Past Activities
+
+| Element            | Details                                                                                                                                           |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Who**            | Our team (with experience as an Itochu Corporation representative in Italy)                                                                        |
+| **What**           | Kiara Translator (an app to make translation and interpretation productive tasks)                                                                  |
+| **When**           | Launched in 2019                                                                                                                                   |
+| **Where**          | Developed based on issues discovered during sales activities in Italy; currently used by over 500 clients worldwide                                |
+| **Why**            | Language barriers were hindering sales activities, and translation and interpretation were not productive tasks; developed and sold to solve past issues |
+| **How**            | Achieved 60% market share outside Japan; successful collaboration at Slack's global conference; ongoing research leveraging large language models (LLM) |
+
+
+# CFO AI
+
+| Element            | Details                                                                                                                                                                                                            |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Who**            | Our team (AI startup development team)                                                                                                                                                                             |
+| **What**           | A tool to automate the tasks of a Chief Financial Officer (CFO)                                                                                                                                                     |
+| **When**           | Currently ongoing                                                                                                                                                                                                   |
+| **Where**          | Provided to small and medium-sized enterprises (SMEs) and science-based startups with financial concerns                                                                                                            |
+| **Why**            | SMEs find it difficult to hire a CFO, and science-based startups often lack financial knowledge. The goal is to provide a user experience that enables solid financial planning                                      |
+| **How**            | Automating the skills of a CFO (money management, efficient reallocation, revenue, contract, and risk management, cost linking, organization of software, hardware, and personnel, maximizing equity) and offering it as a tool. This allows companies that cannot afford a CFO to still engage in financial planning |
+
+
+
 **やっていること**
 
 | 要素            | 内容                                                                                                                                                                                                                      |
