@@ -21,6 +21,31 @@ https://www.instagram.com/ishiid/
 <img width="589" alt="Screenshot 2024-06-12 at 10 55 52" src="https://github.com/Kiara-Dev-Team/kiara-ai/assets/10541717/3eb55aed-9302-4ce5-a057-2eef1007db9d">
 
 
+(Why we do this?)
+The issue we aim to solve at Kiara is the extreme difficulty in recruiting executives. Specifically, we have an ambitious plan to replace executive-level personnel using large language models and ChatGPT.
+
+(Target User: Myself)
+I am the one facing this problem. As a founder, I am constantly searching for candidates who can take on leadership roles and manage operations through collaboration with various potential candidates. However, there are very few such individuals in the world, and many solo founders struggle with executive-level recruitment. To date, no effective solution has existed for this issue.
+
+(Previous AI Translation Replacement)
+In the past, we have successfully sold Kiara's "Translator" AI at the operator level, earning the love of 500 customers worldwide. Half of our revenue comes from overseas, marking our success. With the boom of large language models and ChatGPT starting last year, we saw an opportunity and decided to boldly tackle the replacement of managers, directors, and CXO-level personnel.
+
+(Replacing COO and CFO this time)
+This time, we aim to replace the roles of COO and CFO. The COO's role, as discussed, involves handling operations and demonstrating leadership. We are exploring to what extent this can be replaced by large language models. The CFO's role is, literally, managing finances. Understanding to what extent this can be replaced by large language models is central to our plan.
+
+(Why Automating the COO Role is Challenging)
+Automating the COO role is difficult due to the lack of data on human behavior and the inability to model human skills and actions. Managing tasks performed by humans tends to be highly individualized. This is especially challenging for us because we manage a remote team spread across the globe.
+
+(Why Automating the CFO Role is Challenging)
+Automating the CFO role is complicated because sales, IT, and financial management tools are often fragmented due to political reasons. For example, Salesforce and accounting software like Intuit or Free sometimes compete, leading to poor data sharing. Therefore, we have decided to adopt an open-source strategy, integrating data and then building a large language model to address these challenges.
+
+(Future Development)
+Our initial customers will likely be presidents of startups with around ten to fifty employees, like ours. The prototype CFO.ai has already received very positive feedback from a few entrepreneur friends. However, using the same user interface with raw data from large language models for all users will not solve the problem. Therefore, by performing data integration and providing the same user interface as our operations tool, we believe we can streamline and automate each company's processes according to their specific usage needs in the short term.
+
+(Looking for Test Users)
+We are looking for initial test users. If you are interested, please email us at hello@kiara.team with the subject "Kiara AI Monitor Request."
+
+
 # Past Activities
 
 | Element            | Details                                                                                                                                           |
