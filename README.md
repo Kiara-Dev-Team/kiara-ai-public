@@ -1,4 +1,7 @@
 # kiara-ai
+
+<img width="538" alt="Screenshot 2024-06-12 at 11 27 36" src="https://github.com/Kiara-Dev-Team/kiara-ai/assets/10541717/a2afbeed-e10a-4fed-bc7a-46e1ec222692">
+
 Series of apps - for COO / CFO / Investor / Translator 
 We call it "Kiara LLM series"
 
