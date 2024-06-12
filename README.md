@@ -18,6 +18,9 @@ https://www.instagram.com/ishiid/
 | **Why**            | As a fintech venture, we lack necessary tools; hence, we are commercializing these tools and providing them as part of the Kiara AI suite, managed under a single ID                                                         |
 | **How**            | Publishing data and applications as open-source, recruiting collaborators and team members for marketing, sales operations, and engineering. Using various Google services (Gmail, Google Calendar, Google Maps, YouTube, Google Sheets, Google Docs, Google Slides, Google Keep, Android phones) as benchmarks, we commercialize and provide the necessary components |
 
+<img width="589" alt="Screenshot 2024-06-12 at 10 55 52" src="https://github.com/Kiara-Dev-Team/kiara-ai/assets/10541717/3eb55aed-9302-4ce5-a057-2eef1007db9d">
+
+
 # Past Activities
 
 | Element            | Details                                                                                                                                           |
